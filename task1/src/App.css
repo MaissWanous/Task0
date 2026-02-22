@@ -1,0 +1,24 @@
+
+:root {
+  --bg-main: #EDEBFF;
+
+  --card-bg: rgba(245, 243, 255, 0.897);
+  --card-border: #DAD6FF;
+
+  --text-main: #1A1A2E;
+  --text-muted: #4B4B6A;
+  --text-soft: #7A7A9A;
+
+  --accent: rgb(163, 132, 253);
+  --accent-hover: #8B5CF6;
+
+  --swap-symbol: #a78bfa;
+
+  --panel-bg: #F0EEFF;
+  --divider: #D4D0FF;
+  --error-main: #ff4b5c;
+}
+* {
+  margin: 0;
+}
+
